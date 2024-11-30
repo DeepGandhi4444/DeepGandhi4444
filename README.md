@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Exploring the Vast Universe of Computer Science & Engineering 💻 | Let's Write Code that Changes the World! 🚀 | #TechAdventurer #CodeCrusader #FutureInnovator 🌟</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on StyleLease<br><br>🌱 I’m currently learning Next Js , ASP.NET , MOBILE APPLICATION DEVELOPMENT<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me vcgandhi4444@gmail.com
+🔭 I’m currently working on StyleLease<br><br>🌱 I’m currently learning Next Js , ASP.NET , MOBILE APPLICATION DEVELOPMENT<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me deepgandhi4444@gmai.com
 
 
 ## 🌐 Socials:
